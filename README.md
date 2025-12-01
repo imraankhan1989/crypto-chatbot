@@ -10,3 +10,10 @@ A Python-based cryptocurrency trading assistant with virtual portfolio managemen
 - Portfolio tracking
 
 ## 📦 Installation
+```bash
+# 1. Install Python 3.8+
+# 2. Install dependencies
+pip install pandas numpy requests
+
+# 3. Download and run
+python crypto_final.py
